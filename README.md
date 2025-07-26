@@ -1,4 +1,4 @@
-# GenAI Chat RAG App
+# Chat RAG App
 
 GenAI User Chat RAG App is a secure, AI system that enables authenticated users to upload their own PDF documents and interact with a Large Language Model (LLM) that can answer questions based solely on the user's personal data.
 
